@@ -1,0 +1,4 @@
+field_name, field_type, range
+user_name, full_name, -1
+amount, number, 0.0-10000
+transaction date, datetime, 2020-06-20:2021-01-31
