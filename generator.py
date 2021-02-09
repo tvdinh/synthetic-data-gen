@@ -5,8 +5,6 @@ import random as rd
 from datetime import datetime, date
 import dateparser
 
-# how to take argument <==>, you can certainly be able to write it in Java regardless.
-
 class Field:
     def __init__(self, field_name='name', field_type='string', range='range'):
         self.field_name = field_name
